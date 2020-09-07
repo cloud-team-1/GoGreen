@@ -1,0 +1,6 @@
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+modules/bootstrap/.terraform
+modules/vpc/.terraform
